@@ -1,0 +1,126 @@
+h1
+{
+	border-color: black;
+	border-style: groove;
+	border-width: 1px;
+	margin-left: 25%;
+	margin-right: 25%;
+	padding: 15px;
+	text-align: center;
+}
+table
+{
+	border-collapse: collapse;
+}
+table, th, td
+{
+	width: 25%;
+	margin-left: 1%;
+	border: 2px;
+	border-style:solid;
+}
+.photo
+{
+    position: relative;
+    bottom: 100px;
+    left: 1250px;
+    height: 170px;
+    width: 170px;
+}
+.prenom
+{
+	position: absolute;
+	top: 98px;
+	left: 190px;
+}
+.nomfamille
+{
+	position: absolute;
+	top: 98px;
+	left: 10px;
+}
+.naissance
+{
+	position: absolute;
+	top: 130px;
+	left: 10px;
+}
+.mail
+{
+	position: absolute;
+	top: 162px;
+	left: 10px;
+}
+.college
+{
+	position: absolute;
+	left: 10px;
+	top: 300px;
+	color: blue;
+	background-color: deepskyblue;
+	text-decoration: underline;
+}
+.photocollege
+{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	width: 300px;
+	height: 300px;
+}
+.textecollege
+{
+	background-color: deepskyblue;
+	border-style: groove;
+	border-color: black;
+	border-width: 2px;
+	border-radius: 10px 10px;
+}
+.liencollege
+{
+	color: black;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	text-align: center;
+}
+.lycee
+{
+	position: absolute;
+	left: 10px;
+	top: 800px;
+	color: limegreen;
+	background-color: chartreuse;
+	text-decoration: underline;
+}
+.textelycee
+{
+	margin-top: 5%;
+	background-color: chartreuse;
+	border-style: groove;
+	border-color: black;
+	border-width: 2px;
+	border-radius: 10px 10px;
+}
+.photolycee
+{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	width: 300px;
+	height: 300px;
+}
+.lienlycee
+{
+	color: black;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	text-align: center;
+}
+
+
+	
+	
+
+	
